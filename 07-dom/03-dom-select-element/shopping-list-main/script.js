@@ -28,7 +28,7 @@ title.style.padding = '8px';
 console.log(document.querySelector('h1'));
 console.log(document.querySelector('#app-title'));
 console.log(document.querySelector('.container'));
-console.log(document.querySelector('input[type="text"]'));
+console.log(document.querySelector('input[type="text"]'));  
 console.log(document.querySelector('li:nth-child(2)').innerText);
 const secondItem = document.querySelector('li:nth-child(2)');
 secondItem.innerText = 'Ageu Magi';
